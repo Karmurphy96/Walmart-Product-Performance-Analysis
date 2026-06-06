@@ -103,7 +103,7 @@ The dataset contains product-level information including:
 * How engaged are customers?
 * Which products generate the highest customer interaction?
 
-![Dashboard 1](dashboard 1.png)
+![Dashboard 1](dashboard1.png)
 
 ---
 
@@ -119,7 +119,7 @@ The dataset contains product-level information including:
 * Do higher ratings drive engagement?
 * Does pricing influence customer satisfaction?
 
-![Dashboard 2](dashboard 2.png)
+![Dashboard 2](dashboard2.png)
 
 ---
 
@@ -136,7 +136,7 @@ The dataset contains product-level information including:
 * Which categories perform best?
 * Which brands perform best?
 
-![Dashboard 3](dashboard 3.png)
+![Dashboard 3](dashboard3.png)
 
 ---
 
